@@ -1,2 +1,2 @@
 # Python_Project
-Add projects completed 
+This Repository contains all my projects including those completed on DataCamp and other platforms  
